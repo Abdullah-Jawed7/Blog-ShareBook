@@ -42,7 +42,7 @@ function Header() {
     ]
     return(<>
    
-   <header className="py-3 shadow bg-[#0d2436]">
+   <header className="py-3 shadow sticky top-0 z-10 bg-[#0d2436]">
       <Container>
          <nav className="flex justify-between">
             <div className="mr-4">
